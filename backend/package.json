@@ -31,7 +31,7 @@
     "tape": "^4.11.0",
     "unfuck-utf8-headers-middleware": "^1.0.1",
     "winston": "^3.2.1",
-    "winston-log2gelf": "^2.1.0"
+    "winston-log2gelf": "^2.3.0"
   },
   "devDependencies": {
     "assert": "^1.5.0",
